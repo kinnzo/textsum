@@ -122,7 +122,7 @@ print '...',len(vocab)
 
 # In[21]:
 
-
+"""
 import matplotlib.pyplot as plt
 get_ipython().magic(u'matplotlib inline')
 plt.plot([vocabcount[w] for w in vocab]);
@@ -131,7 +131,7 @@ plt.gca().set_yscale("log", nonposy='clip')
 plt.title('word distribution in headlines and discription')
 plt.xlabel('rank')
 plt.ylabel('total appearances');
-
+"""
 
 # always nice to see [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)
 
