@@ -330,7 +330,7 @@ model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 # In[31]:
 
 
-get_ipython().run_cell_magic(u'javascript', u'', u'// new Audio("http://www.soundjay.com/button/beep-09.wav").play ()')
+#get_ipython().run_cell_magic(u'javascript', u'', u'// new Audio("http://www.soundjay.com/button/beep-09.wav").play ()')
 
 
 # In[32]:
